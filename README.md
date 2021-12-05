@@ -1,7 +1,7 @@
 ### Hey, there Harish Here 👋
 
 [![Website](https://img.shields.io/website?label=harishprasad.com&style=for-the-badge&url=https%3A%2F%2Fharishprasad.com)](https://harishprasad.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/harish_hpk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fharish_hpk&screen_name=harish_hpk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imharishprasad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimharishprasad&screen_name=imharishprasad)
 
 ## I'm a Technology Enthusiast, Student, Learner and Developer!!
 - 🔭 I’m currently working on REACTJS and NEXTJS.
