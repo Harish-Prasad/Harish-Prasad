@@ -8,7 +8,7 @@
 - 🥅 2021 Goal: Contribute to Open Source projects.
 - 🌱 I’m currently learning DataStructure and Algorithms. 
 - 💬 Ask me about Computing and Coding.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harish-hpk/)  ||  [Website](https://harishprasad.com/)   ||  [Instagram](https://www.instagram.com/harish_hpk/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imharishprasad/)  ||  [Website](https://harishprasad.com/)   ||  [Instagram](https://www.instagram.com/imharishprasad/)
 - ⚡ Fun fact: Love Making Projects and Playing Cricket🏏
 
 ### Languages and Tools:
